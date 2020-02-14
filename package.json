@@ -1,14 +1,19 @@
 {
-  "name": "github-user-manual",
+  "name": "@pdulth/eclipse-help-toc-to-markdown",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pdulth/eclipse-help-toc-to-markdown.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "pdulth",
   "license": "EPL",
   "dependencies": {
     "xml2js": "^0.4.23"
-  }
+  },
+  "devDependencies": {}
 }
