@@ -48,6 +48,7 @@ let kit = [
     "https://raw.githubusercontent.com/eclipse/kitalpha/master/doc/plugins/org.polarsys.kitalpha.doc/plugin.xml",
     "https://raw.githubusercontent.com/eclipse/kitalpha/master/emde/doc/plugins/org.polarsys.kitalpha.emde.doc/plugin.xml",
     "https://raw.githubusercontent.com/eclipse/kitalpha/master/massactions/plugins/org.polarsys.kitalpha.massactions.doc/plugin.xml",
+    "https://raw.githubusercontent.com/eclipse/kitalpha/master/Docgen/business/plugins/org.polarsys.kitalpha.doc.gen.business.core.doc/plugin.xml",
     "https://raw.githubusercontent.com/eclipse/kitalpha/master/richtext/doc/plugins/org.polarsys.kitalpha.richtext.widget.doc/plugin.xml",
 ]
 
